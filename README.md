@@ -1,2 +1,2 @@
 # codedex-io
-Repositorio dónde se incluirán los cursos de codedex-io
+Repositorio que incluirá los cursos de codedex-io
