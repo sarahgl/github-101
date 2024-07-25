@@ -1,2 +1,2 @@
-# codedex-io
-Repositorio que incluirá los cursos de codedex-io
+# github-101
+Repositorio que incluye los cursos de github-101 de codedex-io
